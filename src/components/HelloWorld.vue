@@ -7,11 +7,10 @@ defineProps<{ msg: string }>()
 <template>
     <h1>{{ msg }}</h1>
     <p>
-        My name is Kevin Chung, and I'm a frontend developer and UI/UX designer.
+        We are the Chung Ohana.
     </p>
     <p>
-        I'm currently spiffing up my resume at this time. Meanwhile, you can check out
-        <a href="https://www.linkedin.com/in/kevinclchung/">my CV on LinkedIn: kevinclchung</a>.
+        This site is under construction.
     </p>
 </template>
 
